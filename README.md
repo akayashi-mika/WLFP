@@ -1,11 +1,3 @@
-﻿---
-title: Worksheet Links
-uuid: 07731c3c-9666-11ed-b135-da2eda3c2649
-version: 164
-created: Tue, 17 Jan 2023 12:54:06 GMT
-tags: [ "pshs/worksheets" ]
----
-
 # **Biology**
 
 - Mendelian Genetics
