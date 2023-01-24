@@ -1,6 +1,8 @@
 # **Biology**
 
 - Mendelian Genetics
+- [ ] todo
+- [X] done
 
     - [https://www.lcps.org/cms/lib/VA01000195/Centricity/Domain/14721/Mendelian%20Genetics%20Worksheet.pdf](https://www.lcps.org/cms/lib/VA01000195/Centricity/Domain/14721/Mendelian%20Genetics%20Worksheet.pdf) 
 
